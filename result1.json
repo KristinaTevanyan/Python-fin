@@ -1,0 +1,1496 @@
+{
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB": {
+        "object_type": "Directory",
+        "object_name": "Python-fin",
+        "object_size": 1752158672,
+        "parant_directory": "\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\": {
+        "object_type": "Directory",
+        "object_name": "venv",
+        "object_size": 875982066,
+        "parant_directory": "Python-fin"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 246,
+        "parant_directory": ".git"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\hooks": {
+        "object_type": "File",
+        "object_name": "update.sample",
+        "object_size": 3650,
+        "parant_directory": "hooks"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\info": {
+        "object_type": "File",
+        "object_name": "exclude",
+        "object_size": 240,
+        "parant_directory": "info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\logs": {
+        "object_type": "Directory",
+        "object_name": "refs",
+        "object_size": 3692,
+        "parant_directory": "logs"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\logs\\refs": {
+        "object_type": "Directory",
+        "object_name": "remotes",
+        "object_size": 1216,
+        "parant_directory": "refs"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\logs\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "master",
+        "object_size": 630,
+        "parant_directory": "heads"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\logs\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 608,
+        "parant_directory": "remotes"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\logs\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "master",
+        "object_size": 608,
+        "parant_directory": "origin"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects": {
+        "object_type": "Directory",
+        "object_name": "pack",
+        "object_size": 0,
+        "parant_directory": "objects"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\05": {
+        "object_type": "File",
+        "object_name": "997af4085da09ec403f1681f7673d814e09c70",
+        "object_size": 1509,
+        "parant_directory": "05"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\18": {
+        "object_type": "File",
+        "object_name": "94c488f8468a980e0fdb5025a6366f4807eb57",
+        "object_size": 786,
+        "parant_directory": "18"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\1a": {
+        "object_type": "File",
+        "object_name": "4ad7d0caa764154f38dc841745c00f0645a5c6",
+        "object_size": 797,
+        "parant_directory": "1a"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\3c": {
+        "object_type": "File",
+        "object_name": "9ba174d8e28f3b76f5ebc2b36a64a6f1362349",
+        "object_size": 161,
+        "parant_directory": "3c"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\47": {
+        "object_type": "File",
+        "object_name": "198b72d5cd886b8f81950009158e55bdb8c7c9",
+        "object_size": 162,
+        "parant_directory": "47"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\4b": {
+        "object_type": "File",
+        "object_name": "825dc642cb6eb9a060e54bf8d69288fbee4904",
+        "object_size": 15,
+        "parant_directory": "4b"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\56": {
+        "object_type": "File",
+        "object_name": "a4b89aed073b36cc28919281b4eb0d93e58975",
+        "object_size": 132,
+        "parant_directory": "56"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\57": {
+        "object_type": "File",
+        "object_name": "ee7fec51823f4f62fd213fca0ef4ac7d63f1fb",
+        "object_size": 161,
+        "parant_directory": "57"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\77": {
+        "object_type": "File",
+        "object_name": "915b49e1ad20e0c95fd6bb19b785e1c7e60da1",
+        "object_size": 582,
+        "parant_directory": "77"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\88": {
+        "object_type": "File",
+        "object_name": "b749c7cc6b2c0c03ef3df12505800043e80506",
+        "object_size": 1331,
+        "parant_directory": "88"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\a8": {
+        "object_type": "File",
+        "object_name": "d09a4342a4cfde8a22d21491393635f5d478a8",
+        "object_size": 162,
+        "parant_directory": "a8"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\cf": {
+        "object_type": "File",
+        "object_name": "7647c5fdf745028328e194c380ee96ff1c7eeb",
+        "object_size": 57,
+        "parant_directory": "cf"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\d7": {
+        "object_type": "File",
+        "object_name": "f5a0f0eb4063e9c3c8bd9f87b5818bf3378fa4",
+        "object_size": 110,
+        "parant_directory": "d7"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\objects\\ec": {
+        "object_type": "File",
+        "object_name": "797c02c44f377485ea05b973c3c4d2fbcbbf34",
+        "object_size": 83,
+        "parant_directory": "ec"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\refs": {
+        "object_type": "Directory",
+        "object_name": "tags",
+        "object_size": 0,
+        "parant_directory": "refs"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\refs\\heads": {
+        "object_type": "File",
+        "object_name": "master",
+        "object_size": 41,
+        "parant_directory": "heads"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\refs\\remotes": {
+        "object_type": "Directory",
+        "object_name": "origin",
+        "object_size": 41,
+        "parant_directory": "remotes"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\.git\\refs\\remotes\\origin": {
+        "object_type": "File",
+        "object_name": "master",
+        "object_size": 41,
+        "parant_directory": "origin"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv": {
+        "object_type": "Directory",
+        "object_name": "Scripts",
+        "object_size": 989352,
+        "parant_directory": "venv"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib": {
+        "object_type": "Directory",
+        "object_name": "site-packages",
+        "object_size": 218500797,
+        "parant_directory": "Lib"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages": {
+        "object_type": "Directory",
+        "object_name": "_distutils_hack",
+        "object_size": 21886,
+        "parant_directory": "site-packages"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\blinker": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 29485,
+        "parant_directory": "blinker"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\blinker\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 519,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\blinker-1.6.2.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "blinker-1.6.2.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\click": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 299041,
+        "parant_directory": "click"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\click\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 2638,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\click-8.1.6.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "click-8.1.6.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\colorama": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 23927,
+        "parant_directory": "colorama"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\colorama\\tests": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 28500,
+        "parant_directory": "tests"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\colorama\\tests\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 203,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\colorama\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 483,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\colorama-0.4.6.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 105,
+        "parant_directory": "colorama-0.4.6.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\colorama-0.4.6.dist-info\\licenses": {
+        "object_type": "File",
+        "object_name": "LICENSE.txt",
+        "object_size": 1491,
+        "parant_directory": "licenses"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\flask": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 255182,
+        "parant_directory": "flask"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\flask\\json": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 24830,
+        "parant_directory": "json"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\flask\\json\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 6016,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\flask\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__main__.cpython-310.pyc",
+        "object_size": 234,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\Flask-2.3.2.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "Flask-2.3.2.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\itsdangerous": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 34557,
+        "parant_directory": "itsdangerous"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\itsdangerous\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 887,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\itsdangerous-2.1.2.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "itsdangerous-2.1.2.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\jinja2": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 428227,
+        "parant_directory": "jinja2"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\jinja2\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1623,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\Jinja2-3.1.2.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "Jinja2-3.1.2.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\markupsafe": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 13298,
+        "parant_directory": "markupsafe"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\markupsafe\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 11275,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\MarkupSafe-2.1.3.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 102,
+        "parant_directory": "MarkupSafe-2.1.3.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 2904,
+        "parant_directory": "pip"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 77034,
+        "parant_directory": "_internal"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\cli": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 70873,
+        "parant_directory": "cli"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\cli\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 289,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\commands": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 100122,
+        "parant_directory": "commands"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\commands\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 3268,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\distributions": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 10661,
+        "parant_directory": "distributions"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\distributions\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 816,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\index": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 52159,
+        "parant_directory": "index"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\index\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 243,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\locations": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 24085,
+        "parant_directory": "locations"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\locations\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 11045,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 43816,
+        "parant_directory": "metadata"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 19744,
+        "parant_directory": "importlib"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\importlib\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 334,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\metadata\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 4747,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\models": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 46020,
+        "parant_directory": "models"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\models\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 277,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\network": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 45179,
+        "parant_directory": "network"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\network\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 265,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\operations": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 25543,
+        "parant_directory": "operations"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 15332,
+        "parant_directory": "build"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\build\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 219,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 26366,
+        "parant_directory": "install"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\install\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 277,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\operations\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 213,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\req": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 76070,
+        "parant_directory": "req"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\req\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 2620,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 1278,
+        "parant_directory": "resolution"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 15186,
+        "parant_directory": "legacy"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\legacy\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 220,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 75868,
+        "parant_directory": "resolvelib"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\resolvelib\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 224,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\resolution\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 213,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\utils": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 107249,
+        "parant_directory": "utils"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\utils\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 208,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\vcs": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 51295,
+        "parant_directory": "vcs"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\vcs\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 531,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_internal\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 769,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 95794,
+        "parant_directory": "_vendor"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 30110,
+        "parant_directory": "cachecontrol"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 6992,
+        "parant_directory": "caches"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\caches\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 378,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\cachecontrol\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 659,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 2733,
+        "parant_directory": "certifi"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\certifi\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__main__.cpython-310.pyc",
+        "object_size": 471,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 726906,
+        "parant_directory": "chardet"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 3266,
+        "parant_directory": "cli"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\cli\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 212,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 8417,
+        "parant_directory": "metadata"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\metadata\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 217,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\chardet\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 3189,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 23999,
+        "parant_directory": "colorama"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\tests": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 28584,
+        "parant_directory": "tests"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\tests\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 215,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\colorama\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 495,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 296084,
+        "parant_directory": "distlib"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\distlib\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1079,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\distro": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 43298,
+        "parant_directory": "distro"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\distro\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__main__.cpython-310.pyc",
+        "object_size": 286,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\idna": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 207200,
+        "parant_directory": "idna"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\idna\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 864,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 35120,
+        "parant_directory": "msgpack"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\msgpack\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1462,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 79319,
+        "parant_directory": "packaging"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\packaging\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 463,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 100570,
+        "parant_directory": "pkg_resources"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pkg_resources\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 99893,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 38367,
+        "parant_directory": "platformdirs"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\platformdirs\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__main__.cpython-310.pyc",
+        "object_size": 1253,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 115699,
+        "parant_directory": "pygments"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 29625,
+        "parant_directory": "filters"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\filters\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 29625,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 111721,
+        "parant_directory": "formatters"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\formatters\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 4387,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 97832,
+        "parant_directory": "lexers"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\lexers\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 9073,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 3388,
+        "parant_directory": "styles"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\styles\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 3388,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pygments\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__main__.cpython-310.pyc",
+        "object_size": 605,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 300983,
+        "parant_directory": "pyparsing"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 16598,
+        "parant_directory": "diagram"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\diagram\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 16598,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 7146,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 12363,
+        "parant_directory": "pyproject_hooks"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 10564,
+        "parant_directory": "_in_process"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 841,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 603,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\requests": {
+        "object_type": "File",
+        "object_name": "__version__.py",
+        "object_size": 435,
+        "parant_directory": "requests"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__version__.cpython-310.pyc",
+        "object_size": 567,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 32218,
+        "parant_directory": "resolvelib"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 612,
+        "parant_directory": "compat"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 218,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 623,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\rich": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 1006568,
+        "parant_directory": "rich"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__main__.cpython-310.pyc",
+        "object_size": 7200,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 49952,
+        "parant_directory": "tenacity"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 16489,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 20718,
+        "parant_directory": "tomli"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 372,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 118074,
+        "parant_directory": "urllib3"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 56867,
+        "parant_directory": "contrib"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 20078,
+        "parant_directory": "_securetransport"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\_securetransport\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 233,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\contrib\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 216,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 27888,
+        "parant_directory": "packages"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 1554,
+        "parant_directory": "backports"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 227,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 217,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 73745,
+        "parant_directory": "util"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1126,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 2526,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 24643,
+        "parant_directory": "webencodings"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 9763,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\_vendor\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 3144,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__pip-runner__.cpython-310.pyc",
+        "object_size": 1646,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pip-23.0.1.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "pip-23.0.1.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 100578,
+        "parant_directory": "pkg_resources"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\extern": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 2963,
+        "parant_directory": "extern"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 2963,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 30734,
+        "parant_directory": "_vendor"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 35009,
+        "parant_directory": "importlib_resources"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 665,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 22207,
+        "parant_directory": "jaraco"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 19686,
+        "parant_directory": "text"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 19686,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 217,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 143710,
+        "parant_directory": "more_itertools"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 292,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 79447,
+        "parant_directory": "packaging"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 473,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 301037,
+        "parant_directory": "pyparsing"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 16584,
+        "parant_directory": "diagram"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 16584,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 7144,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 210,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\pkg_resources\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 100578,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 234243,
+        "parant_directory": "setuptools"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\command": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 233300,
+        "parant_directory": "command"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\command\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 465,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\config": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 71037,
+        "parant_directory": "config"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 94381,
+        "parant_directory": "_validate_pyproject"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1539,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\config\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1464,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\extern": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 3038,
+        "parant_directory": "extern"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\extern\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 3038,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_distutils": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 280186,
+        "parant_directory": "_distutils"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 141067,
+        "parant_directory": "command"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 537,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_distutils\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 579,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 93401,
+        "parant_directory": "_vendor"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 54331,
+        "parant_directory": "importlib_metadata"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 37440,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 34982,
+        "parant_directory": "importlib_resources"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 662,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 22192,
+        "parant_directory": "jaraco"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 19674,
+        "parant_directory": "text"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 19674,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 214,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 128285,
+        "parant_directory": "more_itertools"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 288,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 79408,
+        "parant_directory": "packaging"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 470,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 301007,
+        "parant_directory": "pyparsing"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 16581,
+        "parant_directory": "diagram"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 16581,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 7141,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 20746,
+        "parant_directory": "tomli"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 379,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\_vendor\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 207,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 9521,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\setuptools-65.5.0.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "setuptools-65.5.0.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 307459,
+        "parant_directory": "werkzeug"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\datastructures": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 118661,
+        "parant_directory": "datastructures"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\datastructures\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 1577,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\debug": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 43643,
+        "parant_directory": "debug"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\debug\\shared": {
+        "object_type": "File",
+        "object_name": "style.css",
+        "object_size": 6078,
+        "parant_directory": "shared"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\debug\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 14387,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\middleware": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 43470,
+        "parant_directory": "middleware"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\middleware\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 208,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\routing": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 84208,
+        "parant_directory": "routing"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\routing\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 4646,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\sansio": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 62018,
+        "parant_directory": "sansio"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\sansio\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 204,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\wrappers": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 50568,
+        "parant_directory": "wrappers"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\wrappers\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 323,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\werkzeug\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 371,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\Werkzeug-2.3.6.dist-info": {
+        "object_type": "File",
+        "object_name": "WHEEL",
+        "object_size": 92,
+        "parant_directory": "Werkzeug-2.3.6.dist-info"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\_distutils_hack": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 7857,
+        "parant_directory": "_distutils_hack"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Lib\\site-packages\\_distutils_hack\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-310.pyc",
+        "object_size": 7602,
+        "parant_directory": "__pycache__"
+    },
+    "D:\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 GB\\Python-fin\\venv\\Scripts": {
+        "object_type": "File",
+        "object_name": "pythonw.exe",
+        "object_size": 257304,
+        "parant_directory": "Scripts"
+    }
+}
