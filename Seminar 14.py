@@ -11,11 +11,6 @@ def test_matrix():
     Matrix([[2, 4, 6, 8], [8, 10, 12, 14], [16, 18, 20, 22]])
     >>> Matrix([[1, 2, 3, 4], [4, 5, 6, 7], [8, 9, 10, 11]]) * '2'
     Traceback (most recent call last):
-    ...
-    homework_14.task02.custom_exceptions.MatrixExc.MatrixTypeError: AN ERROR OCCURRED. MatrixTypeError: 2 is not a 'Matrix' instance
-    """
-    ...
-
 
 if __name__ == '__main__':
     import doctest

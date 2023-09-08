@@ -1,91 +1,72 @@
+from student_exeptions import StudentNameError, InvalidSubjectError, InvalidScoreError
+import csv
 
-def rectangle_part():
-    rect_a = RectangleWorks.rectangle_create(100, 100)      # stub
-    rect_b = RectangleWorks.rectangle_create(100, 100)      # stub
+class Student:
+    def __init__(self, name, csv_filename):
+        if not name.istitle() or not name.replace(" ", "").isalpha():
+            raise StudentNameError()
 
-    try:
-        rect_a = RectangleWorks.rectangle_create(11, -14)
-    except RectangleValueError as exc:
-        print(f'{exc.__class__.__name__}: {exc}')
-    try:
-        rect_b = RectangleWorks.rectangle_create(14, 'a')
-    except RectangleValueError as exc:
-        print(f'{exc.__class__.__name__}: {exc}')
-    try:
-        rect_e = RectangleWorks.rectangle_sum(rect_a, 10)
-    except RectangleTypeError as exc:
-        print(f'{exc.__class__.__name__}: {exc}')
-    try:
-        rect_e = RectangleWorks.rectangle_sub(rect_a, 'a')
-    except RectangleTypeError as exc:
-        print(f'{exc.__class__.__name__}: {exc}')
-    rect_c = RectangleWorks.rectangle_sum(rect_a, rect_b)
-    rect_d = RectangleWorks.rectangle_sub(rect_a, rect_b)
-    print(rect_c)
-    print(rect_d)
+        self.name = name
+        self.subjects = self.load_subjects_from_csv(csv_filename)
+        self.scores = {subject: [] for subject in self.subjects}
+        self.test_results = {subject: [] for subject in self.subjects}
 
+    def load_subjects_from_csv(self, csv_filename):
+        """Load subjects from a CSV file and return them as a list."""
+        with open(csv_filename, "r") as file:
+            reader = csv.reader(file)
+            return next(reader)
 
-def matrix_part():
-    mtx_a = MatrixWorks.create_matrix([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]])
-    mtx_b = MatrixWorks.create_matrix([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12]])
-    mtx_d = MatrixWorks.create_matrix([[1, 2, 3, 4, ], [5, 6, 7, 8], [9, 10, 11, 12]])
-    try:
-        mtx_c = MatrixWorks.create_matrix([[10, 11, 12], [4, 5, 6, 100], [1, 2, 3], [7, 8, 9]])
-    except ConsistencyMatrixError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(MatrixWorks.matrices_sum(mtx_a, mtx_d))
-    except MatrixValueError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(MatrixWorks.matrices_mul(mtx_a, mtx_b))
-    except MatrixMultiplyError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(MatrixWorks.matrices_mul(mtx_a, mtx_d))
-    except MatrixMultiplyError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(MatrixWorks.matrices_mul(mtx_a, 10))
-    except MatrixValueError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(MatrixWorks.matrices_mul(mtx_a, 'a'))
-    except MatrixTypeError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
+    def add_score(self, subject, score):
+        if subject not in self.subjects:
+            raise InvalidSubjectError(subject)
+
+        if score < 2 or score > 5:
+            raise InvalidScoreError(score)
+
+        self.scores[subject].append(score)
+
+    def add_test_result(self, subject, result):
+        if subject not in self.subjects:
+            raise InvalidSubjectError(subject)
+
+        if result < 0 or result > 100:
+            raise InvalidScoreError(result, score_type="Результат теста")
+
+        self.test_results[subject].append(result)
+
+    def average_test_score(self, subject):
+        if subject not in self.subjects:
+            raise InvalidSubjectError(subject)
+
+        return sum(self.test_results[subject]) / len(self.test_results[subject]) if self.test_results[subject] else 0
+
+    def average_score(self):
+        total_scores = sum([sum(scores) for scores in self.scores.values()])
+        total_count = sum([len(scores) for scores in self.scores.values()])
+        return total_scores / total_count if total_count else 0
 
 
-def file_lister_part():
-    start_path = '/home/andrew/Documents/geekbrains/Python2023/Homeworks/Seminar_13'
-    wrong_path = 'Documents/geekbrains/Python2023/Homeworks/Seminar_13'
-    try:
-        dir_walker = FileListerWorks.create_lister(wrong_path)
-    except FileListerPathError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-        dir_walker = FileListerWorks.create_lister(start_path)
-    try:
-        print(FileListerWorks.list_dir('json', False))
-    except FileListerObjectError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(FileListerWorks.list_dir(dir_walker, False))
-    except FileListerExtensionError as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(FileListerWorks.list_dir(False))
-    except (FileListerObjectError, FileListerExtensionError) as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
-    try:
-        print(FileListerWorks.list_dir(dir_walker, 'py'))
-    except (FileListerObjectError, FileListerExtensionError) as exc:
-        print(f'FAIL! {exc.__class__.__name__}: {exc}')
+class StudentNameError(Exception):
+    def __init__(self, message="Имя студента введено неверно. Оно должно содержать только буквы и начинаться с заглавной буквы."):
+        self.message = message
+        super().__init__(self.message)
 
+class InvalidSubjectError(Exception):
+    def __init__(self, subject_name):
+        self.message = f"Предмет '{subject_name}' не найден в файле CSV."
+        super().__init__(self.message)
 
-def main():
-    rectangle_part()
-    matrix_part()
-    file_lister_part()
+class InvalidScoreError(Exception):
+    def __init__(self, score, score_type="Оценка"):
+        self.message = f"{score_type} '{score}' недействителен. Оценки должны быть от 2 до 5, а результаты тестов от 0 до 100."
+        super().__init__(self.message)
 
+from student import Student
 
-if __name__ == '__main__':
-    main()
+# Пример использования:
+student = Student("Алексей Петров", "subjects.csv")
+student.add_score("Математика", 5)
+student.add_test_result("Математика", 95)
+print(student.average_test_score("Математика"))
+print(student.average_score())
